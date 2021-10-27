@@ -3,20 +3,20 @@
   "version": "0.1.0",
   "description": "A console logger for node.js",
   "author": "Chen Junda <ddadaal@outlook.com>",
-  "homepage": "https://github.com/ddadaal/logger#readme",
+  "homepage": "https://github.com/ddadaal/node-logger#readme",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ddadaal/logger.git"
+    "url": "git+https://github.com/ddadaal/node-logger.git"
   },
   "scripts": {
     "build": "rimraf lib && tsc -p tsconfig.build.json && tsc-alias -p tsconfig.build.json",
     "test": "jest"
   },
   "bugs": {
-    "url": "https://github.com/ddadaal/tsgrpc/issues"
+    "url": "https://github.com/ddadaal/node-logger/issues"
   },
   "publishConfig": {
     "access": "public"
