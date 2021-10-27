@@ -1,6 +1,6 @@
 {
   "name": "@ddadaal/node-logger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A console logger for node.js",
   "author": "Chen Junda <ddadaal@outlook.com>",
   "homepage": "https://github.com/ddadaal/node-logger#readme",
